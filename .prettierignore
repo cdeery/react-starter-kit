@@ -16,3 +16,8 @@
 /.husky
 *.hbs
 
+.vscode/*
+
+.history/*
+
+.idea
