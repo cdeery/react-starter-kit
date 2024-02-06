@@ -16,7 +16,6 @@
 /.husky
 *.hbs
 
-.vscode/*
 
 .history/*
 
